@@ -1,5 +1,3 @@
 # Why I Love GitHub
 
-* It is pretty
-* It is easy to edit files
-* It is pretty easy to edit files
+* GitHub makes geeks say « Fork me, I'm famous »
