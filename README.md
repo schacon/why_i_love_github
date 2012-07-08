@@ -1,5 +1,3 @@
 # Why I Love GitHub
 
-* It is pretty
-* It is easy to edit files
-* It is pretty easy to edit files
+* i love github cuz i love github and github is our savior in this otherwise cold world of brutal realism.
