@@ -1,5 +1,5 @@
 # Why I Love GitHub
 
-* It is pretty
-* It is easy to edit files
-* It is pretty easy to edit files
+* It's pretty
+* It's easy to edit files
+* It's pretty easy to edit files
